@@ -72,4 +72,4 @@ This is the man page which contains all functions and descriptions of all the fu
 
 # Credits
 
-- All codes been written by Ernest Aiji and Ifeanyi Nzef
+- All codes been written by Ernest Aiji and Ifeanyi Nze
